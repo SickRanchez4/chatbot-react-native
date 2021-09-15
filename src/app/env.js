@@ -1,0 +1,12 @@
+export const dialogflowConfig = {
+    "type": "service_account",
+    "project_id": "covid-dialogflow-x9qh",
+    "private_key_id": "efa9a19bc5428e1506c4c3a833619a14168607f5",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDKVrbu67KJ8aLJ\n/irSduJZP8LEtbdYAY09jVbb/C55g5xL5djJdH+MbzqSlgPCkMpn/s7WSzFQGvF6\nluHfWIrUDFydzYsGaMkL74WYo+rcMI2PTYHDwHNgfzOjXWRe10uWoTHBL9zL95tY\nZVCgwZxLp5KebC/2nDkBzzCYLE3tB/rEbIPJTWZlxiCi6qphofqu+clyMAdMXyhZ\n/Ao+UVvyeMN6/U38BIxiMyATRhr2YMQTv6J4daZqay5eA46igjbFYAWdEQ7H5Dll\n89x/CuBaTpjwbsOvdqT7ys7rh0yAmP1DGb3KSsHrurg5lJ95TEAeoGwy56jCJmtr\nrAyQW8hnAgMBAAECggEAGdmqmmtLY+Xr+Hwmkr1J3WwmIS/ewiQZ8YdeqvvqIMUo\nkTvGuV95si09tvTqew+OLxYgl8PYg4BFt0s9L+XQgBcqN/ucFjq0liKeQf+N0F7K\n9HLLBYF6BsCJjjFZfZJqSk7CxrMrisrSB8uTLvk9U3RlE3oFRgT0dYo3uPakErL2\n5+tsEJS3IWon6e8Hv3xvvtR4nJ3Ac4qZVUbE5tcxmtKM/N84twRYEGxlZpN5imK2\nS7cntcuzAGttD3tbkIbjANOZD7wbyeiUP/dHm8tHmkDdmnyqEuLR8p77L1yebN0l\nplkEB+5u4Wn4yc3MjF8w+xiclB8vk0/iScvdLb1OrQKBgQDt2ZyDFF2l1KlUM3BY\nTZ8bYAANEVgLDn5IObJyfItsx6mTl2XEQAwpJ/FZ2ieu/74GsuheLoV4p3OAFE9a\nm206wRDOtF9U6P4ws067Bt0S9GYQU24bbA3x765sD6wWVIdXWwKmc3Yv8TSRRatL\n9lCOPZPsyhSRppTw7JMZhyTmpQKBgQDZx2Q19+2bAakooHNaqLkFdUJT9OcOiCyf\nvSO69fTx8aeX0jgKClUWuHY8f6D2qpph0s0AOu8HN9PgxSnZf5cLd0yX8vzdE87E\nP8Ifsu1fpdjNUzjJQeN5Pejfg1pAoRz7FsNZiSxeAXLeTuPWYMCNRuwRRqi2V73D\ncCBVgUSRGwKBgQDOEoVM+D8u5zKSFkMW7qGUaTeCGu3KHpOA5iRalteBtveQPVLZ\nlpgyrD2qmJ1bPI6aZTV4LBxN7d7fMDmUiic4CYATZylVesyIy0HCPu8ZdhBbwr0a\nGyN14zCexXFWo4PjRqHkLxNN9FCUMOV52f3vTyCzvl3V15shpgbIzlNFVQKBgAe1\nl0aR0Ed8d5CInYzIDES1MfPm54cMKwg8mdc0fcdS1qv5NSKl2v1C6myZ2AjjYTO1\nUqx/aZbH0yhR0nlwmtg9EOkQIQNygA9ScnzMyLpqFJKwL4JwYq0YE/ZVoAxJp8z7\nsU6qHHf3dSmJgWdFZYuaxyCVb8OEt6MDhSGBwfuhAoGBALlr8trEtNDeVeLpFTH3\nboSDEYl+aMo4YPPk9V0eHzUVBIYih8l1Q5E1+7/aDCqWZsI6fymKmKABkluHOqAl\nJgg+/6EaIE+nWGrgvefB3t5GRfkpFXQuZm/r5lk6PylPVBoGUHxTOhxxf/gzZ5Qm\n9NlDwxtE3jg4OWvegO8tM56+\n-----END PRIVATE KEY-----\n",
+    "client_email": "chatbot-covid@covid-dialogflow-x9qh.iam.gserviceaccount.com",
+    "client_id": "112435551762266756008",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbot-covid%40covid-dialogflow-x9qh.iam.gserviceaccount.com"
+  }
